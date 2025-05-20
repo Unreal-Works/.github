@@ -13,7 +13,7 @@ our goal? have fun, level up our dev skills, and maybe drop some bangers along t
 
 ### 🌈 how to get in on the madness
 - pull up, fork a repo, and vibe with us
-- open an issue if you got an idea, question, or meme to share
+- open an issue if you got an idea, question, or tea to share
 - PRs are always welcome, even if they’re just typo fixes or making code more cursed
 
 ---
